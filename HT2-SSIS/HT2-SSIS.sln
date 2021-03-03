@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HT2-SSIS", "HT2-SSIS\HT2-SSIS.dtproj", "{C882A3D0-61D4-4213-B389-0E9B051F5187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C882A3D0-61D4-4213-B389-0E9B051F5187}.Development|Default.ActiveCfg = Development
+		{C882A3D0-61D4-4213-B389-0E9B051F5187}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA9947F2-DC8A-4F96-A1DE-34367275C26A}
+	EndGlobalSection
+EndGlobal
