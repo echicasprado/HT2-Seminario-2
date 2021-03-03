@@ -1,0 +1,17 @@
+CREATE DATABASE HT2;
+USE HT2;
+
+CREATE TABLE temporal(
+	Carne VARCHAR(200),
+	Nombre  VARCHAR(200),
+	LlevaLab  VARCHAR(200),
+	PosibleNota  VARCHAR(200)
+);
+
+CREATE TABLE alumno(
+	IdAlumno INT IDENTITY(1,1) PRIMARY KEY,
+	Carnet INT,
+	Nombre VARCHAR(200),
+	LlevaLab VARCHAR(200),
+	PosibleNota INT
+);
