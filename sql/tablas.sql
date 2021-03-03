@@ -10,7 +10,7 @@ CREATE TABLE temporal(
 
 CREATE TABLE alumno(
 	IdAlumno INT IDENTITY(1,1) PRIMARY KEY,
-	Carnet INT,
+	Carne INT,
 	Nombre VARCHAR(200),
 	LlevaLab VARCHAR(200),
 	PosibleNota INT
