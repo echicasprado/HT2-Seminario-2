@@ -1,0 +1,83 @@
+﻿Carne|Nombre|LlevaLab|PosibleNota
+200112856|Juan Orlando Cabrera Samayoa|Si|95
+200310165|José Abraham Navarro|Si|95
+200412956|Nelson Jair González Pérez|Si|91
+200611517|Jose Domingo Tubac Chocon|Si|92
+200714558|Rafael Antonio Morales Donis|Si|96
+200915347|Erick Fernando Reyes Mancilla|Si|95
+200924991|Eliezer Isai Coronado Morales|Si|97
+201020445|Elder Aquilino Tojin Sol|Si|96
+201025406|Glendy Marilucy Contreras González|Si|96
+201123848|Mario Josué Alvarado Lima|Si|100
+201213146|Dennis Manuel Alejandro Castro Guzmán|Si|96
+201213255|Leonel Eduardo Avila Calvillo|Si|94
+201213283|Mario Obed Morales Guitz|Si|94
+201313713|Daniel Alejandro Herrera Hernández|Si|92
+201314112|Randolph Estuardo Muy Chanchavac|Si|98
+201314571|Wilson Yuviny Guerra Díaz|Si|96
+201314761|Jorge David López Yool|Si|93
+201318664|Jenny Sharai Montenegro Contreras|Si|97
+201325657|Selvin Estuardo Icu Son|Si|99
+201403532|Ever Eduardo Chicas Prado|Si|100
+201403610|Lester Fernando Mazariegos Navarro|Si|91
+201404082|Fernando José Paz González|Si|93
+201404215||Si|91
+201404262|José David Rodríguez Hernández|Si|90
+201408470|Sandra Eunice Jiménez Rodas|Si|92
+201503385|Brandon Antony Chitay Coutiño|Si|93
+201503392|Mynor Joel Lombardo Molina Guevara|Si|96
+201503422|Susel Eugenia Retana Arriola|Si|95
+201503440|Cesar Dionicio Sazo Mayen|Si|97
+201503515|César David Juárez González|Si|96
+201503608|Juan Luis Robles Molina|Si|98
+201503699|Eddy Javier Sirín Hernández|Si|94
+201503738|Juan José Lima Ramirez|Si|94
+201503748|Javier Orlando Jáuregui Juárez|Si|98
+201503777|Francisco Humberto Lezana Ramos|Si|91
+201503911|Juan Pablo Osuna de Leon|Si|93
+201504042|Julio Estuado Gómez Alonzo|Si|92
+201504081|Jose Diego Perez Toralla|Si|94
+201504192|Maynor David Salguero Guillén|Si|97
+201504231|Jose Carlos Bautista Mazariegos|Si|94
+201504290|Bryan Eduardo Chacón López|Si|99
+201504468|Guillermo Alfredo Peitzner Estrada|Si|94
+NAC|Carlos Luis Pablo Hernández Gramajo|Si|90
+201513858|Cesar Alejandro Sazo Quisquinay|Si|93
+201602420|Ingrid Rossana Pérez Mena|Si|98
+201602434|Jeannira Del Rosario Sic Menéndez|Si|93
+201602517|Marvin Saúl Guzmán García|Si|94
+201602569|Christopher Jhoanis Soto Cifuentes|Si|100
+201602688|Alvin Emilio Alegría Hernández|Si|99
+201602723|Diego Alejandro Caballeros Melchor|Si|-100
+201602820|Luis Alfonso Melgar Arizpe|Si|99
+201602916|Ricardo Antonio Menendez Tobias|Si|97
+201603037|Brian Daniel Xiloj del Cid|Si|100
+201603095|Abner Fernando Cardona Ramírez|Si|100
+201603157|Ricardo Antonio Alvarado Ramirez|Si|97
+201610648|David Jonathan González Gámez|Si|-99
+201612098|Javier Estuardo Lima Abrego|Si|95
+201612114|Herbert Rafael Reyes Portillo|Si|97
+201612118|Carlos Eduardo Hernandez Molina|Si|91
+201612139|Jeralmy Alejandra de León Samayoa|Si|94
+201612141|Diego Estuardo Gómez Fernández|Si|92
+201612219|Herlindo René Corona Arenales|Si|94
+201612272|Andrés Esteban Carvajal Morales|Si|91
+201612304|Mindi Guisela Ajpop Aguilar|Si|92
+201612499|Henry Adolfo Galvez|Si|92
+NAC|Carlos Rodrigo Estrada Najarro|Si|96
+201700327|Marco Antonio López Grajeda|Si|97
+201700342|José Francisco Puac Ixcamparic|Si|92
+201700345|Luis Gerardo Chay Grijalva|Si|90
+201700465|Max Leonel Florian Curtidor|Si|98
+201700507|Kimberly Mireya Elias Diaz|Si|99
+201701048|Ronald Gabriel Romero González|Si|91
+201701089|Fernando Feliciano Chajon del Cid|Si|90
+201709054|Darwin Alexis Arevalo Cucul|Si|98
+201709177|Cristian Manuel Castellanos Ajtún|Si|96
+201709362|Bruno Marco Jose Coronado Morales|Si|90
+201713894|Brayan Alberto Chinchilla Ramos|Si|93
+201314112|Randolph Estuardo Muy Chanchavac|Si|98
+201314571|Wilson Yuviny Guerra Díaz|Si|96
+201314761|Jorge David López Yool|Si|93
+201318664|Jenny Sharai Montenegro Contreras|Si|97
+201325657|Selvin Estuardo Icu Son|Si|99
