@@ -1,6 +1,6 @@
 CREATE DATABASE HT2;
 USE HT2;
-
+ 
 CREATE TABLE Temporal(
 	Carne VARCHAR(200),
 	Nombre  VARCHAR(200),
